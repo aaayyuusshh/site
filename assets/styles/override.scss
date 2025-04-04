@@ -7,3 +7,17 @@ a button {
         margin-bottom: 0px;
     }
 }
+
+.home img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 9999px;
+    image-rendering: auto;
+    padding: 3px;
+}
+
+html[data-theme='dark'] .home img {
+    background-color: rgb(159, 159, 159);
+    
+}
