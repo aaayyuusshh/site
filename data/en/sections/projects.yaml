@@ -21,45 +21,35 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+- name: WikiTime Chrome Extension
+  logo: /images/sections/projects/icon-128.png
+  image: /images/sections/projects/1.jpg
+  repo: https://github.com/aaayyuusshh/wiki-time
+  summary: |
+    A Chrome extension that accurately estimates the reading time of Wikipedia articles based on user's reading speed 
+    
+    Chrome Store: https://shorturl.at/e2E7D
+  tags: ["javascript", "jest", "chrome extension api"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: WikiTime API
+  logo: /images/sections/projects/icon-128.png
+  image: /images/sections/projects/wikiapi.png
+  repo: https://github.com/aaayyuusshh/wiki-time-api
+  summary: |
+    A simple API that analyzes Wikipedia articles and returns useful metrics like estimated reading time, word count, and image count. Just hit endpoints like `/api/words/:title` or `/api/readingTime/:title` to get quick insights.
+  
+    Live: https://wiki-time-api-production.up.railway.app/api/words/Soccer
+  
+  tags: ["javascript", "express", "node", "redis"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/toha_website.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+
+- name: Dots and Boxes
+  logo: 
+  image: /images/sections/projects/dotsandboxes.png
+  repo: https://github.com/aaayyuusshh/dots-and-boxes
+  summary: |
+    A client-server multiplayer implementation of the classic dots and boxes game
+
+  tags: ["javascript", "websockets"]
