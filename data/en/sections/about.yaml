@@ -31,10 +31,6 @@ summary: |
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "example@gmail.com"
-
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/aaayyuusshh"
