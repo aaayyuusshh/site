@@ -24,8 +24,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Aayush Dahal
   type: website
-  description: Portfolio and personal blog of John Doe.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
+  description: Portfolio website of Aayush Dahal 💙
+  image: images/author/img1.jpg
+  url: https://aayushdahal.netlify.app/
