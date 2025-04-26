@@ -53,3 +53,13 @@ projects:
     A client-server multiplayer implementation of the classic dots and boxes game
 
   tags: ["javascript", "websockets"]
+
+
+- name: AI Powered Search
+  logo: 
+  image: /images/sections/projects/llm.png
+  repo: https://github.com/aaayyuusshh/ai-powered-search
+  summary: |
+    A light python script that takes in a user's question and returns an answer along with URL resources.
+
+  tags: ["python", "large language models"]
