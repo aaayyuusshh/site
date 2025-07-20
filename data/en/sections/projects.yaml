@@ -21,6 +21,16 @@ section:
 
 # your projects
 projects:
+- name: SpotiRecap
+  logo:
+  image: /images/sections/projects/recap.png
+  repo: https://github.com/aaayyuusshh/spoti-recap
+  summary: |
+    Displays your Spotify top tracks, artists, or genres of the past month, 6 months, or all time. 
+    
+    Live Link: https://spoti-recap.vercel.app/
+  tags: ["java", "spring", "typescript", "react", "python", "oauth", "redis"]
+
 
 - name: WikiTime Chrome Extension
   logo: /images/sections/projects/icon-128.png
@@ -29,7 +39,7 @@ projects:
   summary: |
     A Chrome extension that accurately estimates the reading time of Wikipedia articles based on user's reading speed 
     
-    Chrome Store: https://shorturl.at/e2E7D
+    Chrome Store: https://chromewebstore.google.com/detail/wikitime-reading-time-for/hbfdcancoadfmllecbdadfmjmjglipfn
   tags: ["javascript", "jest", "chrome extension api"]
 
 
@@ -44,6 +54,13 @@ projects:
   
   tags: ["javascript", "express", "node", "redis"]
 
+- name: AImmit (In Progress ⏳)
+  logo:
+  image: /images/sections/projects/terminal.png
+  repo: https://github.com/aaayyuusshh/spoti-recap
+  summary: |
+    A command line tool that generates relevant git commit messages using various AI models. 
+  tags: ["typescript", "npm"]
 
 - name: Dots and Boxes
   logo: 

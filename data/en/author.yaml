@@ -4,7 +4,7 @@ nickname: "Aayush 💙"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hello, it's"
 # image: "images/author/me.jpg"
-image: "images/author/img1.jpg"
+image: "images/author/me.png"
 
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -12,6 +12,6 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - Computer Science student
-  - Full stack software developer
+  - Computer Science graduate
+  - Full stack software engineer
   - Love anything tech
