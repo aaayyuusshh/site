@@ -54,14 +54,6 @@ projects:
   
   tags: ["javascript", "express", "node", "redis"]
 
-- name: AImmit (In Progress ⏳)
-  logo:
-  image: /images/sections/projects/terminal.png
-  repo: https://github.com/aaayyuusshh/spoti-recap
-  summary: |
-    A command line tool that generates relevant git commit messages using various AI models. 
-  tags: ["typescript", "npm"]
-
 - name: Dots and Boxes
   logo: 
   image: /images/sections/projects/dotsandboxes.png
@@ -71,6 +63,14 @@ projects:
 
   tags: ["javascript", "websockets"]
 
+- name: ShareNotes
+  logo: 
+  image: /images/sections/projects/share-notes.png
+  repo: https://github.com/aaayyuusshh/share-notes
+  summary: |
+    A distributed note taking app, inspired by Google Docs, that allows real time, collaborative note-taking
+
+  tags: ["python", "javascript", "fastapi"]
 
 - name: AI Powered Search
   logo: 
